@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "165030124746",
+    "project_id": "lifestylecompanion-28c42",
+    "storage_bucket": "lifestylecompanion-28c42.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165030124746:android:1dcfd7b3081b1f85ef6833",
+        "android_client_info": {
+          "package_name": "com.example.lifestyle_companion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmPEGrsagfbW6X84wLVauZwD88tlkbq34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
