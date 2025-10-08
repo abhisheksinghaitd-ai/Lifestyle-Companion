@@ -1,6 +1,11 @@
-# lifestyle_companion
+# Lifestyle Companion
 
-A new Flutter project.
+• Developed a mobile wellness app unifying steps, sleep, habits, hydration, calories, and achievement badges into a sleek dark-themed dashboard with glanceable KPIs, progress rings, and charts.
+• Integrated Google Fit for real-time step tracking with day/week/month analytics and milestone badges to encourage activity consistency.
+• Implemented sleep logging (bedtime, wake-up, naps) with onboarding prompts, automatic duration calculation, and habit-driven sleep tips.
+• Added habit tracker, water intake module with quick-add increments, and a simple calorie log for a consolidated daily routine overview.
+• Built with Flutter, using BLOC for authentication flow and state management, and Hive for fast offline persistence of logs and settings.
+• Designed custom UI components including card-based layouts, chip actions, circular progress rings, line charts, large numeric KPIs, and modal prompts for low-friction logging.
 
 # Screenshots 📱
 
