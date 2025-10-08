@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-# Screenshots
+# Screenshots 📱
 
 
 <image src = "https://github.com/user-attachments/assets/593329b1-4cb4-4dce-8e40-1c643722ebf4" width="220"/>
