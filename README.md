@@ -4,6 +4,9 @@ A new Flutter project.
 
 # Screenshots
 
+
+<image src = "https://github.com/user-attachments/assets/593329b1-4cb4-4dce-8e40-1c643722ebf4" width="220"/>
+<image src = "https://github.com/user-attachments/assets/32dbd2ff-1a17-4a3a-a0d4-082498fdca39" width="220"/>
 <image src = "https://github.com/user-attachments/assets/31834977-6a52-481e-9f22-ab4195eb7b4e" width="220"/>
 <image src = "https://github.com/user-attachments/assets/b1d3f4c4-7d1a-4b71-b460-b368010a31b6" width="220"/>
 <image src = "https://github.com/user-attachments/assets/453b05b6-4da4-4a17-9fc5-9b0495b208c5" width="220"/>
