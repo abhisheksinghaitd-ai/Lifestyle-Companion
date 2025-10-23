@@ -51,13 +51,14 @@ A few resources to help you get started:
 
 ## 🧠 Tech Overview
 
-| Category | Tech Used |
-|-----------|------------|
-| Framework | Flutter |
-| State Management | BLoC |
-| Local Storage | Hive |
-| Health Data | Google Fit API |
-| Design | Custom dark theme with charts & rings |
+| Category        | Technology Stack |
+|-----------------|-----------------|
+| **Framework**   | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) Flutter |
+| **AI Feedback** | ![Ollama](https://img.shields.io/badge/Ollama-AI-FF6F61?style=for-the-badge&logo=appveyor&logoColor=white) Ollama AI |
+| **Local Storage** | ![Hive](https://img.shields.io/badge/Hive-000000?style=for-the-badge&logo=hive&logoColor=yellow) Hive |
+| **Health Data** | ![Health API](https://img.shields.io/badge/Health%20API-32CD32?style=for-the-badge) + ![Pedometer](https://img.shields.io/badge/Pedometer-FFA500?style=for-the-badge) Pedometer |
+| **Design**      | ![Dark Theme](https://img.shields.io/badge/Custom%20Dark%20Theme-1E1E1E?style=for-the-badge&logo=visual-studio-code&logoColor=white) Sleek & Modern UI |
+
 
 ---
 
