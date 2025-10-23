@@ -23,12 +23,11 @@ A sleek **mobile wellness app** that unifies your daily health and lifestyle met
 <p align="center">
     <img src="https://github.com/user-attachments/assets/3fc551dd-718c-4223-b38a-fcf5e9b3a7d2" width="220"/>
   <img src="=https://github.com/user-attachments/assets/d69252bb-5569-4b2f-911a-0ed684297813" width="220"/>
-  <img src=https://github.com/user-attachments/assets/f670e5a2-1ea8-4769-a79e-39d95ce6343b" width="220"/>
+  <img src="https://github.com/user-attachments/assets/d2dc4088-b88b-41b3-a0c5-2834c346de3d" width="220"/>
   <img src="https://github.com/user-attachments/assets/32a1350d-2afc-4c1f-b097-945974f294fe" width="220"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d2dc4088-b88b-41b3-a0c5-2834c346de3d" width="220"/>
   <img src="https://github.com/user-attachments/assets/dc9e6875-f3c1-4b8a-9650-f07456e0970e" width="220"/>
   <img src="https://github.com/user-attachments/assets/63b11ca1-23c8-4273-b6cc-b15899cacbd6" width="220"/>
   <img src="https://github.com/user-attachments/assets/4284055a-9212-41c0-9260-234e82d8dacf" width="220"/>
