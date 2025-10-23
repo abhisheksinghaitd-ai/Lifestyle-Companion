@@ -20,6 +20,7 @@ A sleek **mobile wellness app** that unifies your daily health and lifestyle met
 
 
 
+
 ## 📱 Screenshots
 
 <p align="center">
@@ -33,6 +34,7 @@ A sleek **mobile wellness app** that unifies your daily health and lifestyle met
   <img src="https://github.com/user-attachments/assets/32a1350d-2afc-4c1f-b097-945974f294fe" width="220"/>
   <img src="https://github.com/user-attachments/assets/63b11ca1-23c8-4273-b6cc-b15899cacbd6" width="220"/>
   <img src="https://github.com/user-attachments/assets/4284055a-9212-41c0-9260-234e82d8dacf" width="220"/>
+  <img src="https://github.com/user-attachments/assets/c0696b83-cd5e-43ea-aac4-3976addbff5b" width="220"/>
  
 
 </p>
