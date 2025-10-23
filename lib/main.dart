@@ -1,11 +1,11 @@
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:hive_flutter/hive_flutter.dart';
-import 'package:lifestyle_companion/blocs/login/login_bloc.dart';
-import 'package:lifestyle_companion/blocs/login/login_screen.dart';
+
 
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:google_fonts/google_fonts.dart';
+import 'package:lifestyle_companion/ui.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
@@ -19,6 +19,10 @@ void main() async {
   await Hive.openBox('waterintake');
   await Hive.openBox('pref');
   await Hive.openBox('sleep');
+  await Hive.openBox('steps');
+  await Hive.openBox('day');
+  await Hive.openBox('appData');
+  await Hive.openBox('LiveSteps');
 
   runApp(const MyApp());
 }
@@ -34,10 +38,8 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         textTheme: GoogleFonts.poppinsTextTheme(),
       ),
-      home: BlocProvider(
-        create: (_) => LoginBloc(),
-        child: LoginScreen(),
-      ),
-    );
-  }
+      home: UiWidget(),);
+      
+  
+}
 }
