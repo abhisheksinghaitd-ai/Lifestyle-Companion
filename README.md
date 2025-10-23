@@ -15,21 +15,23 @@ A sleek **mobile wellness app** that unifies your daily health and lifestyle met
 - 🎨 **Custom UI:** Card-based layouts, chip actions, progress rings, line charts, and modern modal prompts.
 - ⚙️ **Tech Stack:** Built with **Flutter**, using **BLoC** for state management and **Hive** for fast offline storage.
 
----
+
 
 ## 📱 Screenshots
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/593329b1-4cb4-4dce-8e40-1c643722ebf4" width="220"/>
-  <img src="https://github.com/user-attachments/assets/32dbd2ff-1a17-4a3a-a0d4-082498fdca39" width="220"/>
-  <img src="https://github.com/user-attachments/assets/31834977-6a52-481e-9f22-ab4195eb7b4e" width="220"/>
+  <img src="=https://github.com/user-attachments/assets/d69252bb-5569-4b2f-911a-0ed684297813" width="220"/>
+  <img src=https://github.com/user-attachments/assets/f670e5a2-1ea8-4769-a79e-39d95ce6343b" width="220"/>
+  <img src="https://github.com/user-attachments/assets/32a1350d-2afc-4c1f-b097-945974f294fe" width="220"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b1d3f4c4-7d1a-4b71-b460-b368010a31b6" width="220"/>
-  <img src="https://github.com/user-attachments/assets/453b05b6-4da4-4a17-9fc5-9b0495b208c5" width="220"/>
-  <img src="https://github.com/user-attachments/assets/c0c42c7f-c525-4df6-8e78-d6b7e3b14753" width="220"/>
-  <img src="https://github.com/user-attachments/assets/961a9cf5-1c8e-4bd1-b6fa-aef7771bf828" width="220"/>
+  <img src="https://github.com/user-attachments/assets/d2dc4088-b88b-41b3-a0c5-2834c346de3d" width="220"/>
+  <img src="https://github.com/user-attachments/assets/dc9e6875-f3c1-4b8a-9650-f07456e0970e" width="220"/>
+  <img src="https://github.com/user-attachments/assets/63b11ca1-23c8-4273-b6cc-b15899cacbd6" width="220"/>
+  <img src="https://github.com/user-attachments/assets/4284055a-9212-41c0-9260-234e82d8dacf" width="220"/>
+  <img src="https://github.com/user-attachments/assets/7487404c-6907-450f-aefe-e1fff603d845" width="220"/>
+
 </p>
 
 ---
