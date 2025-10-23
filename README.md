@@ -6,14 +6,16 @@ A sleek **mobile wellness app** that unifies your daily health and lifestyle met
 
 ## ✨ Features
 
-- 🏃‍♂️ **Activity Tracking:** Integrated with **Google Fit** for real-time step tracking, detailed **day/week/month analytics**, and milestone badges for consistency.
-- 😴 **Sleep Monitoring:** Log bedtime, wake-up, and naps with automatic duration calculation and habit-based sleep insights.
-- 🔁 **Habit Tracker:** Add, track, and maintain daily habits through simple check-ins.
-- 💧 **Hydration Tracking:** Quick-add buttons for water intake and progress rings for daily goals.
-- 🍽️ **Calorie Log:** Lightweight calorie tracker integrated into the same dashboard for a consolidated overview.
-- 🧩 **Achievements:** Collect badges and rewards based on milestones and consistency.
-- 🎨 **Custom UI:** Card-based layouts, chip actions, progress rings, line charts, and modern modal prompts.
-- ⚙️ **Tech Stack:** Built with **Flutter**, using **BLoC** for state management and **Hive** for fast offline storage.
+- 🏃‍♂️ **Activity Tracking:** Integrated with **Google Fit** for real-time step tracking, detailed **day/week/month analytics**, and milestone badges for consistency.  
+- 😴 **Sleep Monitoring:** Log bedtime, wake-up, and naps with automatic duration calculation and habit-based sleep insights.  
+- 🔁 **Habit Tracker:** Add, track, and maintain daily habits through simple check-ins.  
+- 💧 **Hydration Tracking:** Quick-add buttons for water intake and progress rings for daily goals.  
+- 🍽️ **Calorie Log:** Lightweight calorie tracker integrated into the same dashboard for a consolidated overview.  
+- 🧩 **Achievements:** Collect badges and rewards based on milestones and consistency.  
+- 🧠 **AI Health Feedback:** **Ollama AI** analyzes activity, sleep, and habits to provide personalized health insights and recommendations.  
+- 🎨 **Custom UI:** Card-based layouts, chip actions, progress rings, line charts, and modern modal prompts.  
+- ⚙️ **Tech Stack:** Built with **Flutter**, using **Hive** for fast offline storage and **Ollama AI** for smart health feedback.
+
 
 
 
